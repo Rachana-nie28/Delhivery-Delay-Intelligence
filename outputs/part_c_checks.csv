@@ -1,0 +1,7 @@
+metric,value
+train_rows,840
+validation_rows,180
+test_rows,180
+train_delayed,195
+validation_delayed,42
+test_delayed,41

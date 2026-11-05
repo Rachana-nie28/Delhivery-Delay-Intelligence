@@ -1,0 +1,5 @@
+hub_id,hub_city,hub_tier,expected_segment,actual_segment
+HUB07,Kolkata,1,Standard,Watch
+HUB13,Nagpur,2,Watch,Escalate
+HUB15,Kochi,2,Watch,Escalate
+HUB22,Dehradun,3,Escalate,Watch
